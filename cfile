@@ -1,3 +1,7 @@
 hello i m file
 this is a code file
+<<<<<<< HEA:D
 im user1 
+=======
+this is user2 
+>>>>>>> user2
